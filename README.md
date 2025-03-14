@@ -14,13 +14,8 @@ Algorithm Used: Logistic Regression (Unsupervised Learning)
 
 Description: Predicts water consumption patterns to promote sustainable water usage.
 
-3️⃣ Artificial Neural Network (ANN) Project
 
-Algorithm Used: Artificial Neural Network (ANN)
-
-Description: Demonstrates ANN architecture with real-world data implementation.
-
-4️⃣ Potato Leaf Disease Detection System
+3️⃣ Potato Leaf Disease Detection System
 
 Algorithm Used: Convolutional Neural Network (CNN)
 
